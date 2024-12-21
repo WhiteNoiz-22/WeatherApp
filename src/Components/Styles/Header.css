@@ -1,0 +1,13 @@
+.Header {
+  font-family: sans-serif;
+}
+
+.navlink {
+  color: white;
+}
+
+.navbar {
+  margin-bottom: 50px;
+  background-color: black;
+  color: white;
+}

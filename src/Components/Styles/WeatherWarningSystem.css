@@ -1,0 +1,20 @@
+.yellow-weather-warning {
+  margin-bottom: 40px;
+  border: 1px solid black;
+  border-radius: 10px;
+  background-color: rgb(219, 179, 0);
+}
+
+.orange-weather-warning {
+  margin-bottom: 40px;
+  border: 1px solid black;
+  border-radius: 10px;
+  background-color: rgb(194, 71, 0);
+}
+
+.red-weather-warning {
+  margin-bottom: 40px;
+  border: 1px solid black;
+  border-radius: 10px;
+  background-color: rgb(194, 0, 0);
+}
